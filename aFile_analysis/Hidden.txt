@@ -1,0 +1,6 @@
+Hidden Files and Folers in D drive :
+
+Access denied - D:\$RECYCLE.BIN\S-1-5-21-1045281143-147745478-2674831022-500
+Access denied - D:\$RECYCLE.BIN\S-1-5-21-1414349481-861645831-98335647-1004
+Access denied - D:\$RECYCLE.BIN\S-1-5-21-1414349481-861645831-98335647-500
+Access denied - D:\System Volume Information

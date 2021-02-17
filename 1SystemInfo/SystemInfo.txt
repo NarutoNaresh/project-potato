@@ -1,0 +1,16 @@
+Hostname : Neutron 
+
+Platform : Windows 
+
+Platform-release : 10 
+
+IP-address : 192.168.80.1 
+
+Mac-address : 18:60:24:c1:94:b1 
+
+Platform-version : 10.0.18362 
+
+Architecture : AMD64 
+
+Processor : Intel64 Family 6 Model 142 Stepping 9, GenuineIntel 
+

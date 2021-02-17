@@ -1,0 +1,5 @@
+di={}
+di["exe_running"]= \
+''' 
+The requested operation requires elevation.
+'''; 

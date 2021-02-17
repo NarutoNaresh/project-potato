@@ -1,0 +1,4 @@
+----------------netstat------------------
+
+
+https://www.ionos.com/digitalguide/server/tools/introduction-to-netstat/

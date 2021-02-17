@@ -1,0 +1,67 @@
+import os
+from tkinter import *
+from tkinter import messagebox
+
+class software():
+    def __init__(self,window):
+        self.window=window
+        # self.photo = PhotoImage(file="set.png")
+        # self.s = self.photo.subsample(1, 1)
+        self.var=None
+        window.title("class_testing")
+        window.geometry("780x591")
+        window.configure(background="#393e46")
+
+
+    def hello(self):
+        self.var=6;
+        c = Canvas(window, bg='#393e46', height=250, width=300, cursor='circle')
+        line = c.create_line(10, 20, 200, 200, fill='black')
+        c.pack()
+    #     # c.delete("all")
+    #     # print(self.var)
+    def System_info(self):
+        print(self.var)
+
+
+    def Buttons(self):
+        self.b_sysinfo = PhotoImage(file="inf.png")
+        self.b_s=self.b_sysinfo.subsample(6,6)
+        b1 = Button(window, text="System Info",relief=FLAT, bg="#2C2828", fg="#4ecca3", bd=5,
+                    command=self.System_info,image=self.b_s,compound=TOP).place(x=0, y=0)
+
+        self.b_file = PhotoImage(file="file.png")
+        self.b_f = self.b_file.subsample(6, 6)
+        b2 = Button(window, text="FileAanlysis", relief=FLAT, bg="#2C2828", fg="#4ecca3", bd=5,
+                    command=self.System_info, image=self.b_f, compound=TOP).place(x=0, y=118)
+
+        self.b_net = PhotoImage(file="net.png")
+        self.b_n = self.b_net.subsample(6, 6)
+        b3 = Button(window, text="NetAanlysis", relief=FLAT, bg="#2C2828", fg="#4ecca3", bd=5,
+                    command=self.System_info, image=self.b_n, compound=TOP).place(x=0, y=236)
+
+        self.b_ins = PhotoImage(file="scn.png")
+        self.b_i = self.b_ins.subsample(6, 6)
+        b4 = Button(window, text="InsAanlysis", relief=FLAT, bg="#2C2828", fg="#4ecca3", bd=5,
+                    command=self.System_info, image=self.b_i, compound=TOP).place(x=0, y=354)
+
+        self.b_rep = PhotoImage(file="stats.png")
+        self.b_r = self.b_rep.subsample(6, 6)
+        b4 = Button(window, text="InsAanlysis", relief=FLAT, bg="#2C2828", fg="#4ecca3", bd=5,
+                    command=self.System_info, image=self.b_r, compound=TOP).place(x=0, y=472)
+
+
+        #
+        # b4 = Button(window, text="Report", height=6, width=14, relief=FLAT, bg="#2C2828", fg="#4ecca3", bd=5,
+        #             command=self.hello).place(x=0, y=324)
+        # b4 = Button(window, text="Settings", height=6, width=14, relief=FLAT, bg="#2C2828", fg="#4ecca3", bd=5,
+        #             command=self.hello1).place(x=0, y=432)
+
+
+window=Tk()
+
+
+
+a=software(window)
+a.Buttons()
+window.mainloop()

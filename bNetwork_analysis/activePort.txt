@@ -1,0 +1,143 @@
+"active_ports"= \
+
+Active Connections
+
+  Proto  Local Address          Foreign Address        State
+  TCP    0.0.0.0:135            Neutron:0              LISTENING
+  TCP    0.0.0.0:443            Neutron:0              LISTENING
+  TCP    0.0.0.0:445            Neutron:0              LISTENING
+  TCP    0.0.0.0:903            Neutron:0              LISTENING
+  TCP    0.0.0.0:913            Neutron:0              LISTENING
+  TCP    0.0.0.0:5040           Neutron:0              LISTENING
+  TCP    0.0.0.0:5357           Neutron:0              LISTENING
+  TCP    0.0.0.0:6646           Neutron:0              LISTENING
+  TCP    0.0.0.0:8733           Neutron:0              LISTENING
+  TCP    0.0.0.0:13148          Neutron:0              LISTENING
+  TCP    0.0.0.0:49664          Neutron:0              LISTENING
+  TCP    0.0.0.0:49665          Neutron:0              LISTENING
+  TCP    0.0.0.0:49666          Neutron:0              LISTENING
+  TCP    0.0.0.0:49667          Neutron:0              LISTENING
+  TCP    0.0.0.0:49668          Neutron:0              LISTENING
+  TCP    0.0.0.0:49669          Neutron:0              LISTENING
+  TCP    127.0.0.1:5354         Neutron:0              LISTENING
+  TCP    127.0.0.1:6942         Neutron:0              LISTENING
+  TCP    127.0.0.1:8307         Neutron:0              LISTENING
+  TCP    127.0.0.1:63342        Neutron:0              LISTENING
+  TCP    127.0.0.1:64555        Neutron:64556          ESTABLISHED
+  TCP    127.0.0.1:64556        Neutron:64555          ESTABLISHED
+  TCP    127.0.0.1:64557        Neutron:64558          ESTABLISHED
+  TCP    127.0.0.1:64558        Neutron:64557          ESTABLISHED
+  TCP    127.0.0.1:64559        Neutron:64560          ESTABLISHED
+  TCP    127.0.0.1:64560        Neutron:64559          ESTABLISHED
+  TCP    192.168.40.1:139       Neutron:0              LISTENING
+  TCP    192.168.43.47:139      Neutron:0              LISTENING
+  TCP    192.168.43.47:64294    52.139.250.253:https   ESTABLISHED
+  TCP    192.168.43.47:64727    server-13-33-179-173:https  ESTABLISHED
+  TCP    192.168.80.1:139       Neutron:0              LISTENING
+  TCP    [::]:135               Neutron:0              LISTENING
+  TCP    [::]:443               Neutron:0              LISTENING
+  TCP    [::]:445               Neutron:0              LISTENING
+  TCP    [::]:5357              Neutron:0              LISTENING
+  TCP    [::]:8733              Neutron:0              LISTENING
+  TCP    [::]:13148             Neutron:0              LISTENING
+  TCP    [::]:49664             Neutron:0              LISTENING
+  TCP    [::]:49665             Neutron:0              LISTENING
+  TCP    [::]:49666             Neutron:0              LISTENING
+  TCP    [::]:49667             Neutron:0              LISTENING
+  TCP    [::]:49668             Neutron:0              LISTENING
+  TCP    [::]:49669             Neutron:0              LISTENING
+  TCP    [::1]:8307             Neutron:0              LISTENING
+  TCP    [::1]:49673            Neutron:0              LISTENING
+  TCP    [2409:4072:61a:d54b:ac0b:410c:f1fd:8535]:64586  sb-in-xbc:5228         ESTABLISHED
+  TCP    [2409:4072:61a:d54b:ac0b:410c:f1fd:8535]:64690  whatsapp-cdn6-shv-02-maa2:https  ESTABLISHED
+  UDP    0.0.0.0:3702           *:*                    
+  UDP    0.0.0.0:3702           *:*                    
+  UDP    0.0.0.0:3702           *:*                    
+  UDP    0.0.0.0:3702           *:*                    
+  UDP    0.0.0.0:5050           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5355           *:*                    
+  UDP    0.0.0.0:6646           *:*                    
+  UDP    0.0.0.0:51815          *:*                    
+  UDP    0.0.0.0:52529          *:*                    
+  UDP    0.0.0.0:52890          *:*                    
+  UDP    0.0.0.0:53427          *:*                    
+  UDP    0.0.0.0:53472          *:*                    
+  UDP    0.0.0.0:53514          *:*                    
+  UDP    0.0.0.0:65015          *:*                    
+  UDP    127.0.0.1:1900         *:*                    
+  UDP    127.0.0.1:53432        *:*                    
+  UDP    127.0.0.1:63789        *:*                    
+  UDP    192.168.40.1:137       *:*                    
+  UDP    192.168.40.1:138       *:*                    
+  UDP    192.168.40.1:1900      *:*                    
+  UDP    192.168.40.1:2177      *:*                    
+  UDP    192.168.40.1:5353      *:*                    
+  UDP    192.168.40.1:52332     *:*                    
+  UDP    192.168.40.1:63786     *:*                    
+  UDP    192.168.40.1:64434     *:*                    
+  UDP    192.168.43.47:137      *:*                    
+  UDP    192.168.43.47:138      *:*                    
+  UDP    192.168.43.47:1900     *:*                    
+  UDP    192.168.43.47:2177     *:*                    
+  UDP    192.168.43.47:5353     *:*                    
+  UDP    192.168.43.47:52336    *:*                    
+  UDP    192.168.43.47:63788    *:*                    
+  UDP    192.168.43.47:64438    *:*                    
+  UDP    192.168.80.1:137       *:*                    
+  UDP    192.168.80.1:138       *:*                    
+  UDP    192.168.80.1:1900      *:*                    
+  UDP    192.168.80.1:2177      *:*                    
+  UDP    192.168.80.1:5353      *:*                    
+  UDP    192.168.80.1:52333     *:*                    
+  UDP    192.168.80.1:63787     *:*                    
+  UDP    192.168.80.1:64435     *:*                    
+  UDP    [::]:3702              *:*                    
+  UDP    [::]:3702              *:*                    
+  UDP    [::]:3702              *:*                    
+  UDP    [::]:3702              *:*                    
+  UDP    [::]:5353              *:*                    
+  UDP    [::]:5353              *:*                    
+  UDP    [::]:5353              *:*                    
+  UDP    [::]:5353              *:*                    
+  UDP    [::]:5353              *:*                    
+  UDP    [::]:5353              *:*                    
+  UDP    [::]:5353              *:*                    
+  UDP    [::]:5355              *:*                    
+  UDP    [::]:51816             *:*                    
+  UDP    [::]:52529             *:*                    
+  UDP    [::]:52890             *:*                    
+  UDP    [::]:53428             *:*                    
+  UDP    [::]:53472             *:*                    
+  UDP    [::]:53515             *:*                    
+  UDP    [::]:65015             *:*                    
+  UDP    [::1]:1900             *:*                    
+  UDP    [::1]:5353             *:*                    
+  UDP    [::1]:63785            *:*                    
+  UDP    [2409:4072:61a:d54b:216c:cba0:f495:a881]:2177  *:*                    
+  UDP    [2409:4072:61a:d54b:216c:cba0:f495:a881]:52334  *:*                    
+  UDP    [2409:4072:61a:d54b:216c:cba0:f495:a881]:64436  *:*                    
+  UDP    [2409:4072:61a:d54b:ac0b:410c:f1fd:8535]:2177  *:*                    
+  UDP    [2409:4072:61a:d54b:ac0b:410c:f1fd:8535]:52335  *:*                    
+  UDP    [2409:4072:61a:d54b:ac0b:410c:f1fd:8535]:64437  *:*                    
+  UDP    [fe80::216c:cba0:f495:a881%21]:1900  *:*                    
+  UDP    [fe80::216c:cba0:f495:a881%21]:2177  *:*                    
+  UDP    [fe80::216c:cba0:f495:a881%21]:63784  *:*                    
+  UDP    [fe80::cd84:4ce6:841a:6dd8%8]:1900  *:*                    
+  UDP    [fe80::cd84:4ce6:841a:6dd8%8]:2177  *:*                    
+  UDP    [fe80::cd84:4ce6:841a:6dd8%8]:63782  *:*                    
+  UDP    [fe80::e495:3f19:e9f7:aa78%29]:1900  *:*                    
+  UDP    [fe80::e495:3f19:e9f7:aa78%29]:2177  *:*                    
+  UDP    [fe80::e495:3f19:e9f7:aa78%29]:63783  *:*                    

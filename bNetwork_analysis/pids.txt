@@ -1,0 +1,18 @@
+dic={}
+dic["pids"]= \
+''' 
+
+Active Connections
+
+  Proto  Local Address          Foreign Address        State           PID
+  TCP    127.0.0.1:64555        Neutron:64556          ESTABLISHED     10536
+  TCP    127.0.0.1:64556        Neutron:64555          ESTABLISHED     10536
+  TCP    127.0.0.1:64557        Neutron:64558          ESTABLISHED     10536
+  TCP    127.0.0.1:64558        Neutron:64557          ESTABLISHED     10536
+  TCP    127.0.0.1:64559        Neutron:64560          ESTABLISHED     10536
+  TCP    127.0.0.1:64560        Neutron:64559          ESTABLISHED     10536
+  TCP    192.168.43.47:64294    52.139.250.253:https   ESTABLISHED     3728
+  TCP    192.168.43.47:64727    server-13-33-179-173:https  ESTABLISHED     10832
+  TCP    [2409:4072:61a:d54b:ac0b:410c:f1fd:8535]:64586  sb-in-xbc:5228         ESTABLISHED     10832
+  TCP    [2409:4072:61a:d54b:ac0b:410c:f1fd:8535]:64690  whatsapp-cdn6-shv-02-maa2:https  ESTABLISHED     10832
+'''; 
